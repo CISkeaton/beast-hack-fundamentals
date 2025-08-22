@@ -99,8 +99,8 @@ const Contact = () => {
                   />
                 </div>
                 
-                <Button variant="cta" size="lg" className="w-full">
-                  Send Message & Get Quote
+                <Button variant="cta" size="lg" className="w-full" asChild>
+                  <a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Send Message & Get Quote</a>
                 </Button>
                 
                 <p className="text-sm text-muted-foreground text-center">
@@ -316,8 +316,8 @@ const Contact = () => {
                 Shop Now
               </a>
             </Button>
-            <Button variant="outline" size="lg">
-              Schedule a Consultation
+            <Button variant="outline" size="lg" asChild>
+              <a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Schedule a Consultation</a>
             </Button>
           </div>
         </section>

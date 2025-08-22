@@ -51,8 +51,8 @@ const Resources = () => {
                   </ul>
                 </div>
               </div>
-              <Button variant="secondary" size="lg">
-                Download Free Guide (PDF)
+              <Button variant="secondary" size="lg" asChild>
+                <a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Download Free Guide (PDF)</a>
               </Button>
             </CardContent>
           </Card>
@@ -73,7 +73,7 @@ const Resources = () => {
                 </p>
                 <div className="flex items-center justify-between">
                   <span className="text-sm text-muted-foreground">5 min read</span>
-                  <Button variant="ghost" size="sm">Read Article</Button>
+                  <Button variant="ghost" size="sm" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Read Article</a></Button>
                 </div>
               </CardContent>
             </Card>
@@ -88,7 +88,7 @@ const Resources = () => {
                 </p>
                 <div className="flex items-center justify-between">
                   <span className="text-sm text-muted-foreground">7 min read</span>
-                  <Button variant="ghost" size="sm">Read Article</Button>
+                  <Button variant="ghost" size="sm" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Read Article</a></Button>
                 </div>
               </CardContent>
             </Card>
@@ -103,7 +103,7 @@ const Resources = () => {
                 </p>
                 <div className="flex items-center justify-between">
                   <span className="text-sm text-muted-foreground">6 min read</span>
-                  <Button variant="ghost" size="sm">Read Article</Button>
+                  <Button variant="ghost" size="sm" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Read Article</a></Button>
                 </div>
               </CardContent>
             </Card>
@@ -118,7 +118,7 @@ const Resources = () => {
                 </p>
                 <div className="flex items-center justify-between">
                   <span className="text-sm text-muted-foreground">8 min read</span>
-                  <Button variant="ghost" size="sm">Read Article</Button>
+                  <Button variant="ghost" size="sm" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Read Article</a></Button>
                 </div>
               </CardContent>
             </Card>
@@ -133,7 +133,7 @@ const Resources = () => {
                 </p>
                 <div className="flex items-center justify-between">
                   <span className="text-sm text-muted-foreground">10 min read</span>
-                  <Button variant="ghost" size="sm">Read Article</Button>
+                  <Button variant="ghost" size="sm" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Read Article</a></Button>
                 </div>
               </CardContent>
             </Card>
@@ -148,7 +148,7 @@ const Resources = () => {
                 </p>
                 <div className="flex items-center justify-between">
                   <span className="text-sm text-muted-foreground">6 min read</span>
-                  <Button variant="ghost" size="sm">Read Article</Button>
+                  <Button variant="ghost" size="sm" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Read Article</a></Button>
                 </div>
               </CardContent>
             </Card>
@@ -176,7 +176,7 @@ const Resources = () => {
                 <p className="mb-4">
                   Learn proper setup procedures, safety guidelines, and maintenance tips to get the most from your Beast Hack training station.
                 </p>
-                <Button variant="outline" className="w-full">Watch Video</Button>
+                <Button variant="outline" className="w-full" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Watch Video</a></Button>
               </CardContent>
             </Card>
 
@@ -196,7 +196,7 @@ const Resources = () => {
                 <p className="mb-4">
                   Step-by-step instruction on proper batting stance, weight distribution, and hand positioning for young athletes.
                 </p>
-                <Button variant="outline" className="w-full">Watch Video</Button>
+                <Button variant="outline" className="w-full" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Watch Video</a></Button>
               </CardContent>
             </Card>
 
@@ -216,7 +216,7 @@ const Resources = () => {
                 <p className="mb-4">
                   Complete introduction to pickleball basics including grip, serve, and court positioning using Beast Hack training tools.
                 </p>
-                <Button variant="outline" className="w-full">Watch Video</Button>
+                <Button variant="outline" className="w-full" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Watch Video</a></Button>
               </CardContent>
             </Card>
 
@@ -236,7 +236,7 @@ const Resources = () => {
                 <p className="mb-4">
                   Identify and correct the most common fundamental mistakes in youth baseball and softball training.
                 </p>
-                <Button variant="outline" className="w-full">Watch Video</Button>
+                <Button variant="outline" className="w-full" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Watch Video</a></Button>
               </CardContent>
             </Card>
           </div>
@@ -260,7 +260,7 @@ const Resources = () => {
                 <p className="mb-4 text-sm text-muted-foreground">
                   Monitor your young athlete's improvement with our professional tracking templates.
                 </p>
-                <Button variant="ghost" size="sm">Download PDF</Button>
+                <Button variant="ghost" size="sm" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Download PDF</a></Button>
               </CardContent>
             </Card>
 
@@ -277,7 +277,7 @@ const Resources = () => {
                 <p className="mb-4 text-sm text-muted-foreground">
                   Quick-reference cards for essential drills that can be used with Beast Hack stations.
                 </p>
-                <Button variant="ghost" size="sm">Download PDF</Button>
+                <Button variant="ghost" size="sm" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Download PDF</a></Button>
               </CardContent>
             </Card>
 
@@ -294,7 +294,7 @@ const Resources = () => {
                 <p className="mb-4 text-sm text-muted-foreground">
                   Comprehensive checklists for setting up effective training sessions and maintaining equipment.
                 </p>
-                <Button variant="ghost" size="sm">Download PDF</Button>
+                <Button variant="ghost" size="sm" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Download PDF</a></Button>
               </CardContent>
             </Card>
 
@@ -311,7 +311,7 @@ const Resources = () => {
                 <p className="mb-4 text-sm text-muted-foreground">
                   Essential safety protocols for youth sports training and Beast Hack station use.
                 </p>
-                <Button variant="ghost" size="sm">Download PDF</Button>
+                <Button variant="ghost" size="sm" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Download PDF</a></Button>
               </CardContent>
             </Card>
           </div>
@@ -346,7 +346,7 @@ const Resources = () => {
                     Quarterly coaching webinars
                   </li>
                 </ul>
-                <Button variant="secondary">Start Certification</Button>
+                <Button variant="secondary" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Start Certification</a></Button>
               </div>
               <div>
                 <h3 className="text-xl font-semibold mb-4">Practice Planning Templates</h3>
@@ -372,7 +372,7 @@ const Resources = () => {
                     Parent communication templates
                   </li>
                 </ul>
-                <Button variant="outline">Download Templates</Button>
+                <Button variant="outline" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Download Templates</a></Button>
               </div>
             </div>
           </div>
@@ -392,7 +392,7 @@ const Resources = () => {
                   placeholder="Enter your email address" 
                   className="flex-1 px-4 py-2 rounded-md text-foreground"
                 />
-                <Button variant="secondary">Subscribe</Button>
+                <Button variant="secondary" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Subscribe</a></Button>
               </div>
               <p className="text-sm mt-4 opacity-75">
                 Join 5,000+ coaches and parents receiving our weekly training tips
@@ -415,7 +415,7 @@ const Resources = () => {
               </a>
             </Button>
             <Button variant="outline" size="lg" asChild>
-              <a href="/contact">Get Expert Guidance</a>
+              <a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Get Expert Guidance</a>
             </Button>
           </div>
         </section>

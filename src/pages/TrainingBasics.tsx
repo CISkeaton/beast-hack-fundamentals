@@ -156,7 +156,7 @@ const TrainingBasics = () => {
                   The adjustable features ensure that young softball players can develop the same quality fundamentals as their baseball counterparts, with adaptations for the unique aspects of softball play.
                 </p>
                 <Button variant="secondary" asChild>
-                  <a href="https://beasthack.com/shop" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">
                     Explore Softball Training Options
                   </a>
                 </Button>
@@ -249,7 +249,7 @@ const TrainingBasics = () => {
               </a>
             </Button>
             <Button variant="outline" size="lg" asChild>
-              <a href="/success-stories">See Success Stories</a>
+              <a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">See Success Stories</a>
             </Button>
           </div>
         </section>

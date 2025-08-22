@@ -44,7 +44,7 @@ const Home = () => {
                   size="lg" 
                   asChild
                 >
-                  <a href="/training-basics">
+                  <a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">
                     Learn Why Fundamentals Matter
                   </a>
                 </Button>
@@ -342,7 +342,7 @@ const Home = () => {
               size="lg" 
               asChild
             >
-              <a href="/success-stories">
+              <a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">
                 See Real Results
               </a>
             </Button>

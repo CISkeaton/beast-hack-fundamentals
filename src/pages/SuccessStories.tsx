@@ -33,7 +33,7 @@ const SuccessStories = () => {
                   <p className="opacity-90">Deputy Administrator, Henry County Parks and Recreation</p>
                 </div>
                 <Button variant="secondary" asChild>
-                  <a href="https://beasthack.com/shop" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">
                     Get the Same Results
                   </a>
                 </Button>
@@ -111,7 +111,7 @@ const SuccessStories = () => {
               opportunities for young athletes regardless of weather or scheduling constraints.
             </p>
             <Button variant="outline" asChild>
-              <a href="/training-basics">Learn About Our Training Philosophy</a>
+              <a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Learn About Our Training Philosophy</a>
             </Button>
           </div>
         </section>
@@ -246,16 +246,12 @@ const SuccessStories = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Button variant="outline" asChild>
-                <a 
-                  href="https://henrycounty.com/departments/parks-recreation" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                >
+                <a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">
                   Visit Henry County Parks Website
                 </a>
               </Button>
               <Button variant="secondary" asChild>
-                <a href="/contact">Contact Us About Your Facility</a>
+                <a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Contact Us About Your Facility</a>
               </Button>
             </div>
           </div>
@@ -275,7 +271,7 @@ const SuccessStories = () => {
               </a>
             </Button>
             <Button variant="outline" size="lg" asChild>
-              <a href="/contact">Get a Custom Quote</a>
+              <a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Get a Custom Quote</a>
             </Button>
           </div>
         </section>
