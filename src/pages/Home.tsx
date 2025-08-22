@@ -61,7 +61,18 @@ const Home = () => {
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-beast font-bold mb-4">The ABCs of Sports Training</h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto font-body">
-              Every great athlete started with the basics. Just as children must learn their ABCs before reading complex literature, young athletes must master fundamental skills before advancing to competitive play.
+              Just like the ABCs are to reading, mastering fundamentals—stance, swing mechanics, and footwork—is critical for young athletes in baseball, softball, and pickleball. Without a strong base, skills falter, and potential is lost. Parents, coaches, and park managers must prioritize these essentials to ensure kids thrive.
+            </p>
+            <p className="text-lg text-muted-foreground max-w-3xl mx-auto mt-4 font-body">
+              Endorsed by Bryan Dixon, Deputy Administrator of Henry County Parks and Recreation, Beast Hack stations have transformed Cochran Park, contributing to their <strong>2023 Georgia Park and Recreation of the Year award</strong>. 
+              <a 
+                href="https://www.henryherald.com/news/henry-county-parks-and-recreation-department-recognized-for-state-and-district-awards/article_2a39ffc2-8f05-11ee-bf94-17937b674357.html" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-primary hover:text-primary-variant underline ml-1 font-medium"
+              >
+                Learn about Henry County's success story
+              </a>
             </p>
           </div>
           
