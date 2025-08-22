@@ -146,7 +146,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
                 </a>
               </Button>
               <p className="text-xs opacity-75 font-body">
-                Serving Georgia Parks and recreation facilities nationwide.
+                Serving Parks and recreation facilities nationwide.
               </p>
             </div>
           </div>
