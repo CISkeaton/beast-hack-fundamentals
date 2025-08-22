@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import heroImage from "@/assets/hero-training.jpg";
+
 import baseballImage from "@/assets/baseball-training.jpg";
 import softballImage from "@/assets/softball-training.jpg";
 import softballActionImage from "@/assets/softball-action.jpg";
@@ -51,18 +51,11 @@ const Home = () => {
               </div>
             </div>
             <div className="relative">
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                <img 
-                  src={heroImage} 
-                  alt="Young baseball player demonstrating proper batting fundamentals using Beast Hack portable hitting station"
-                  className="rounded-lg shadow-sport w-full"
-                />
-                <img 
-                  src={beastHackDemoGif} 
-                  alt="Beast Hack training station demonstration showing dynamic batting practice"
-                  className="rounded-lg shadow-sport w-full"
-                />
-              </div>
+              <img 
+                src={beastHackDemoGif} 
+                alt="Beast Hack training station demonstration showing dynamic batting practice"
+                className="rounded-lg shadow-sport w-full max-w-md mx-auto"
+              />
             </div>
           </div>
         </div>
