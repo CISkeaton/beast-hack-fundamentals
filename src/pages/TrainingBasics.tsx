@@ -198,11 +198,11 @@ const TrainingBasics = () => {
                   Pickleball may seem easier than tennis, but proper fundamentals are just as critical. The sport's unique rules and playing style require specific skill development that starts with basic positioning and paddle control.
                 </p>
                 <p className="mb-4">
-                  Beast Hack's pickleball training stations help players of all ages develop the soft touch, control, and strategic thinking that make the difference between recreational play and competitive success.
+                  Henry County's pioneering pickleball stations at Cochran Park demonstrate how Beast Hack training helps teach grip and serve techniques effectively, contributing to their recognition as 2023 Georgia Park and Recreation of the Year.
                 </p>
                 <div className="bg-background rounded p-4">
-                  <h4 className="font-semibold mb-2">Fun Fact:</h4>
-                  <p className="text-sm">Pickleball is the fastest-growing sport in America, with participation increasing over 159% in just three years. Proper fundamental training is key to this sport's accessibility and enjoyment.</p>
+                  <h4 className="font-semibold mb-2">Success Story:</h4>
+                  <p className="text-sm">Henry County Parks and Recreation implemented Beast Hack pickleball stations alongside their baseball training, proving the versatility and effectiveness of fundamental-focused training across multiple sports.</p>
                 </div>
               </div>
             </div>
