@@ -1,5 +1,6 @@
 import { Link, useLocation } from "react-router-dom";
 import { Button } from "@/components/ui/button";
+import beastHackLogo from "@/assets/beast-hack-logo.png";
 
 const Layout = ({ children }: { children: React.ReactNode }) => {
   const location = useLocation();
@@ -12,8 +13,9 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
       <header className="bg-card border-b border-border sticky top-0 z-50">
         <div className="container mx-auto px-4 py-4">
           <nav className="flex items-center justify-between">
-            <Link to="/" className="text-2xl font-beast font-bold text-primary">
-              Beast Hack
+            <Link to="/" className="flex items-center space-x-3">
+              <img src={beastHackLogo} alt="Beast Hack Logo" className="h-8 w-8" />
+              <span className="text-2xl font-beast font-bold text-primary">Beast Hack</span>
             </Link>
             
             <div className="hidden md:flex items-center space-x-6">

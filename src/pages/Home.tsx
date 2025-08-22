@@ -4,6 +4,9 @@ import heroImage from "@/assets/hero-training.jpg";
 import baseballImage from "@/assets/baseball-training.jpg";
 import softballImage from "@/assets/softball-training.jpg";
 import softballActionImage from "@/assets/softball-action.jpg";
+import beastHackStationImage from "@/assets/beast-hack-station.jpg";
+import beastHackStationV2Image from "@/assets/beast-hack-station-v2.jpg";
+import beastHackDemoGif from "@/assets/beast-hack-demo.gif";
 
 const Home = () => {
   return (
@@ -48,11 +51,18 @@ const Home = () => {
               </div>
             </div>
             <div className="relative">
-              <img 
-                src={heroImage} 
-                alt="Young baseball player demonstrating proper batting fundamentals using Beast Hack portable hitting station"
-                className="rounded-lg shadow-sport w-full"
-              />
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <img 
+                  src={heroImage} 
+                  alt="Young baseball player demonstrating proper batting fundamentals using Beast Hack portable hitting station"
+                  className="rounded-lg shadow-sport w-full"
+                />
+                <img 
+                  src={beastHackDemoGif} 
+                  alt="Beast Hack training station demonstration showing dynamic batting practice"
+                  className="rounded-lg shadow-sport w-full"
+                />
+              </div>
             </div>
           </div>
         </div>
@@ -230,6 +240,82 @@ const Home = () => {
               </div>
               <h3 className="font-impact font-semibold mb-2">Multi-Sport Ready</h3>
               <p className="text-sm text-muted-foreground font-body">Baseball, softball, and pickleball training</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Product Showcase */}
+      <section className="py-16 bg-muted">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-beast font-bold mb-4">Beast Hack Training Stations</h2>
+            <p className="text-xl text-muted-foreground font-body">
+              Professional-grade training equipment designed for developing fundamental skills
+            </p>
+          </div>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+            <div>
+              <img 
+                src={beastHackStationImage} 
+                alt="Beast Hack portable training station - compact and durable design"
+                className="rounded-lg shadow-sport w-full"
+              />
+            </div>
+            <div>
+              <h3 className="text-2xl font-impact font-semibold mb-4">Engineered for Excellence</h3>
+              <p className="text-muted-foreground font-body mb-6">
+                Our training stations are meticulously designed to provide consistent, reliable practice sessions that build muscle memory and proper technique. Each station is portable, durable, and versatile enough for multiple sports.
+              </p>
+              <ul className="space-y-3 text-muted-foreground font-body">
+                <li className="flex items-center">
+                  <svg className="w-5 h-5 text-primary mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                  </svg>
+                  Quick setup in any location
+                </li>
+                <li className="flex items-center">
+                  <svg className="w-5 h-5 text-primary mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                  </svg>
+                  Weather-resistant materials
+                </li>
+                <li className="flex items-center">
+                  <svg className="w-5 h-5 text-primary mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                  </svg>
+                  Adjustable for different skill levels
+                </li>
+                <li className="flex items-center">
+                  <svg className="w-5 h-5 text-primary mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                  </svg>
+                  Compact storage design
+                </li>
+              </ul>
+            </div>
+          </div>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mt-16">
+            <div className="md:order-2">
+              <img 
+                src={beastHackStationV2Image} 
+                alt="Beast Hack training station version 2 - enhanced design for optimal performance"
+                className="rounded-lg shadow-sport w-full"
+              />
+            </div>
+            <div className="md:order-1">
+              <h3 className="text-2xl font-impact font-semibold mb-4">Proven Results</h3>
+              <p className="text-muted-foreground font-body mb-6">
+                Trusted by Henry County Parks and Recreation and countless coaches nationwide, Beast Hack stations have proven their effectiveness in developing young athletes' fundamental skills across baseball, softball, and pickleball.
+              </p>
+              <blockquote className="border-l-4 border-primary pl-4 italic text-muted-foreground font-body">
+                "Beast Hack stations have transformed our training programs. The kids love them, and we can see real improvement in their fundamental skills."
+                <footer className="text-sm mt-2 font-medium">
+                  — Bryan Dixon, Henry County Parks and Recreation
+                </footer>
+              </blockquote>
             </div>
           </div>
         </div>
