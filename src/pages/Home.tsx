@@ -1,6 +1,9 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import heroImage from "@/assets/hero-training.jpg";
+import baseballImage from "@/assets/baseball-training.jpg";
+import softballImage from "@/assets/softball-training.jpg";
+import softballActionImage from "@/assets/softball-action.jpg";
 
 const Home = () => {
   return (
@@ -116,8 +119,70 @@ const Home = () => {
         </div>
       </section>
 
-      {/* Beast Hack Advantages */}
+      {/* Training Showcase */}
       <section className="py-16">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-beast font-bold mb-4">Beast Hack in Action</h2>
+            <p className="text-xl text-muted-foreground font-body">
+              See how Beast Hack stations transform fundamental training across multiple sports
+            </p>
+          </div>
+          
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16">
+            <Card className="overflow-hidden">
+              <div className="aspect-[4/3] overflow-hidden">
+                <img 
+                  src={baseballImage} 
+                  alt="Young baseball player practicing fundamentals with Beast Hack training station"
+                  className="w-full h-full object-cover"
+                />
+              </div>
+              <CardContent className="p-6">
+                <h3 className="text-xl font-impact font-semibold mb-3">Baseball Fundamentals</h3>
+                <p className="text-muted-foreground font-body">
+                  Perfect stance, grip, and swing mechanics for developing baseball players at all skill levels.
+                </p>
+              </CardContent>
+            </Card>
+            
+            <Card className="overflow-hidden">
+              <div className="aspect-[4/3] overflow-hidden">
+                <img 
+                  src={softballImage} 
+                  alt="Softball player developing proper batting mechanics using Beast Hack station"
+                  className="w-full h-full object-cover"
+                />
+              </div>
+              <CardContent className="p-6">
+                <h3 className="text-xl font-impact font-semibold mb-3">Softball Training</h3>
+                <p className="text-muted-foreground font-body">
+                  Build confidence and consistency with focused practice on fundamental softball techniques.
+                </p>
+              </CardContent>
+            </Card>
+            
+            <Card className="overflow-hidden">
+              <div className="aspect-[4/3] overflow-hidden">
+                <img 
+                  src={softballActionImage} 
+                  alt="Dynamic softball training session showcasing Beast Hack station effectiveness"
+                  className="w-full h-full object-cover"
+                />
+              </div>
+              <CardContent className="p-6">
+                <h3 className="text-xl font-impact font-semibold mb-3">Real Results</h3>
+                <p className="text-muted-foreground font-body">
+                  Watch young athletes develop proper form and confidence through consistent fundamental practice.
+                </p>
+              </CardContent>
+            </Card>
+          </div>
+        </div>
+      </section>
+
+      {/* Beast Hack Advantages */}
+      <section className="py-16 bg-muted">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-beast font-bold mb-4">Why Choose Beast Hack Training Stations?</h2>
@@ -160,7 +225,7 @@ const Home = () => {
             <div className="text-center">
               <div className="bg-primary/10 rounded-full w-20 h-20 flex items-center justify-center mx-auto mb-4">
                 <svg className="w-10 h-10 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
                 </svg>
               </div>
               <h3 className="font-impact font-semibold mb-2">Multi-Sport Ready</h3>
