@@ -70,9 +70,9 @@ const Contact = () => {
                   <Label htmlFor="interest">Primary Interest</Label>
                   <select className="w-full px-3 py-2 border border-input rounded-md bg-background">
                     <option value="">Select primary interest</option>
-                    <option value="baseball">Baseball Training Stations</option>
-                    <option value="softball">Softball Training Stations</option>
-                    <option value="pickleball">Pickleball Training Stations</option>
+                    <option value="baseball">Baseball Training Hitting Stations</option>
+                    <option value="softball">Softball Training Hitting Stations</option>
+                    <option value="pickleball">Pickleball Training Hitting Stations</option>
                     <option value="multi-sport">Multi-Sport Package</option>
                     <option value="bulk-discount">Bulk Purchase/Facility Package</option>
                   </select>
@@ -94,7 +94,7 @@ const Contact = () => {
                   <Label htmlFor="message">Tell Us About Your Needs</Label>
                   <Textarea 
                     id="message" 
-                    placeholder="Describe your training goals, facility requirements, number of athletes, or any specific questions you have about Beast Hack stations..." 
+                    placeholder="Describe your training goals, facility requirements, number of athletes, or any specific questions you have about Beast Hack hitting stations..." 
                     rows={4}
                   />
                 </div>
@@ -171,7 +171,7 @@ const Contact = () => {
                 </p>
                 <Button variant="outline" size="lg" className="w-full mb-4" asChild>
                   <a href="https://beasthack.com/shop" target="_blank" rel="noopener noreferrer">
-                    Shop Beast Hack Stations
+                    Shop Beast Hack Hitting Stations
                   </a>
                 </Button>
                 <p className="text-sm opacity-75 text-center">
@@ -260,11 +260,11 @@ const Contact = () => {
 
             <Card>
               <CardHeader>
-                <CardTitle className="text-lg">What age groups can use Beast Hack stations?</CardTitle>
+                <CardTitle className="text-lg">What age groups can use Beast Hack hitting stations?</CardTitle>
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground">
-                  Our stations are designed for ages 6-18, with adjustable features to accommodate different skill levels and physical development stages.
+                  Our hitting stations are designed for ages 6-18, with adjustable features to accommodate different skill levels and physical development stages.
                 </p>
               </CardContent>
             </Card>
@@ -286,7 +286,7 @@ const Contact = () => {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground">
-                  Yes! We offer setup guidance, training videos, and our coach certification program to help you get the most from your Beast Hack stations.
+                  Yes! We offer setup guidance, training videos, and our coach certification program to help you get the most from your Beast Hack hitting stations.
                 </p>
               </CardContent>
             </Card>
@@ -297,7 +297,7 @@ const Contact = () => {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground">
-                  All Beast Hack stations come with a 2-year manufacturer warranty covering defects and normal wear from proper use.
+                  All Beast Hack hitting stations come with a 2-year manufacturer warranty covering defects and normal wear from proper use.
                 </p>
               </CardContent>
             </Card>
@@ -308,7 +308,7 @@ const Contact = () => {
         <section className="mt-16 text-center bg-hero-gradient text-primary-foreground rounded-lg p-8">
           <h2 className="text-3xl font-bold mb-4">Ready to Transform Your Training Program?</h2>
           <p className="text-lg mb-6 opacity-95">
-            Join the hundreds of successful programs already using Beast Hack stations to build fundamental skills and athletic confidence.
+            Join the hundreds of successful programs already using Beast Hack hitting stations to build fundamental skills and athletic confidence.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button variant="secondary" size="lg" asChild>

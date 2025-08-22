@@ -27,7 +27,7 @@ const Resources = () => {
             </CardHeader>
             <CardContent>
               <p className="mb-6 text-lg opacity-95">
-                Our comprehensive guide featuring five essential drills that every young athlete should master. These drills are specifically designed to work with Beast Hack training stations and can be performed at home, in the park, or at your facility.
+                Our comprehensive guide featuring five essential drills that every young athlete should master. These drills are specifically designed to work with Beast Hack training hitting stations and can be performed at home, in the park, or at your facility.
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
                 <div>
@@ -69,7 +69,7 @@ const Resources = () => {
               </CardHeader>
               <CardContent>
                 <p className="mb-4 text-muted-foreground">
-                  Understand why repetitive fundamental training creates lasting athletic improvements and how Beast Hack stations accelerate this process.
+                  Understand why repetitive fundamental training creates lasting athletic improvements and how Beast Hack hitting stations accelerate this process.
                 </p>
                 <div className="flex items-center justify-between">
                   <span className="text-sm text-muted-foreground">5 min read</span>
@@ -275,7 +275,7 @@ const Resources = () => {
               </CardHeader>
               <CardContent>
                 <p className="mb-4 text-sm text-muted-foreground">
-                  Quick-reference cards for essential drills that can be used with Beast Hack stations.
+                  Quick-reference cards for essential drills that can be used with Beast Hack hitting stations.
                 </p>
                 <Button variant="ghost" size="sm" asChild><a href="https://www.beasthack.com/contact" target="_blank" rel="noopener noreferrer">Download PDF</a></Button>
               </CardContent>
@@ -405,13 +405,13 @@ const Resources = () => {
         <section className="text-center">
           <h2 className="text-3xl font-bold mb-6">Ready to Put These Resources to Work?</h2>
           <p className="text-xl text-muted-foreground mb-8 max-w-3xl mx-auto">
-            These resources are most effective when combined with consistent practice using Beast Hack training stations. 
+            These resources are most effective when combined with consistent practice using Beast Hack training hitting stations. 
             Give your young athletes the tools they need to master the fundamentals and build a foundation for lifelong athletic success.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button variant="cta" size="lg" asChild>
               <a href="https://beasthack.com/shop" target="_blank" rel="noopener noreferrer">
-                Shop Beast Hack Stations
+                Shop Beast Hack Hitting Stations
               </a>
             </Button>
             <Button variant="outline" size="lg" asChild>

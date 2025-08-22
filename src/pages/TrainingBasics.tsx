@@ -10,7 +10,7 @@ const TrainingBasics = () => {
           <h1 className="text-4xl md:text-5xl font-bold mb-6">Why Fundamentals Matter in Baseball Training</h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             Understanding the critical importance of fundamentals in baseball, softball, and pickleball training - 
-            and how Beast Hack stations provide the perfect solution for developing these essential skills.
+            and how Beast Hack hitting stations provide the perfect solution for developing these essential skills.
           </p>
         </div>
 
@@ -64,7 +64,7 @@ const TrainingBasics = () => {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="mb-4">The foundation of every great hitter starts with stance and balance. Beast Hack stations help young players develop:</p>
+                <p className="mb-4">The foundation of every great hitter starts with stance and balance. Beast Hack hitting stations help young players develop:</p>
                 <ul className="space-y-2 text-sm">
                   <li>• Feet shoulder-width apart for optimal balance</li>
                   <li>• Weight distribution (60/40 back foot to front foot)</li>
@@ -100,7 +100,7 @@ const TrainingBasics = () => {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="mb-4">The swing path determines contact quality and power. Beast Hack stations teach:</p>
+                <p className="mb-4">The swing path determines contact quality and power. Beast Hack hitting stations teach:</p>
                 <ul className="space-y-2 text-sm">
                   <li>• Level swing plane through the zone</li>
                   <li>• Hip rotation and weight transfer</li>
@@ -198,11 +198,11 @@ const TrainingBasics = () => {
                   Pickleball may seem easier than tennis, but proper fundamentals are just as critical. The sport's unique rules and playing style require specific skill development that starts with basic positioning and paddle control.
                 </p>
                 <p className="mb-4">
-                  Henry County's pioneering pickleball stations at Cochran Park demonstrate how Beast Hack training helps teach grip and serve techniques effectively, contributing to their recognition as 2023 Georgia Park and Recreation of the Year.
+                  Henry County's pioneering pickleball hitting stations at Cochran Park demonstrate how Beast Hack training helps teach grip and serve techniques effectively, contributing to their recognition as 2023 Georgia Park and Recreation of the Year.
                 </p>
                 <div className="bg-background rounded p-4">
                   <h4 className="font-semibold mb-2">Success Story:</h4>
-                  <p className="text-sm">Henry County Parks and Recreation implemented Beast Hack pickleball stations alongside their baseball training, proving the versatility and effectiveness of fundamental-focused training across multiple sports.</p>
+                  <p className="text-sm">Henry County Parks and Recreation implemented Beast Hack pickleball hitting stations alongside their baseball training, proving the versatility and effectiveness of fundamental-focused training across multiple sports.</p>
                 </div>
               </div>
             </div>
@@ -217,7 +217,7 @@ const TrainingBasics = () => {
               <div>
                 <h3 className="text-xl font-semibold mb-4">Consistent Quality Training</h3>
                 <p className="mb-4 opacity-95">
-                  Unlike traditional training methods that depend on coach availability or perfect weather, Beast Hack stations provide consistent, high-quality practice opportunities whenever and wherever your young athlete needs them.
+                  Unlike traditional training methods that depend on coach availability or perfect weather, Beast Hack hitting stations provide consistent, high-quality practice opportunities whenever and wherever your young athlete needs them.
                 </p>
                 <p className="opacity-95">
                   This consistency is crucial for developing muscle memory and building confidence in fundamental movements.
@@ -226,7 +226,7 @@ const TrainingBasics = () => {
               <div>
                 <h3 className="text-xl font-semibold mb-4">Immediate Feedback</h3>
                 <p className="mb-4 opacity-95">
-                  The design of Beast Hack stations provides immediate feedback on swing mechanics, helping players self-correct and improve with each repetition.
+                  The design of Beast Hack hitting stations provides immediate feedback on swing mechanics, helping players self-correct and improve with each repetition.
                 </p>
                 <p className="opacity-95">
                   This instant feedback loop accelerates learning and helps young athletes understand the connection between proper form and successful results.
@@ -240,12 +240,12 @@ const TrainingBasics = () => {
         <section className="text-center">
           <h2 className="text-3xl font-bold mb-6">Start Building Champions Today</h2>
           <p className="text-xl text-muted-foreground mb-8 max-w-3xl mx-auto">
-            Don't wait for your young athletes to develop bad habits. Give them the fundamental training they need to succeed with Beast Hack portable training stations.
+            Don't wait for your young athletes to develop bad habits. Give them the fundamental training they need to succeed with Beast Hack portable training hitting stations.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button variant="cta" size="lg" asChild>
               <a href="https://beasthack.com/shop" target="_blank" rel="noopener noreferrer">
-                Shop Beast Hack Stations
+                Shop Beast Hack Hitting Stations
               </a>
             </Button>
             <Button variant="outline" size="lg" asChild>

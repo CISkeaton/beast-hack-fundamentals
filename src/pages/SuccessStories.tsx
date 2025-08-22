@@ -26,7 +26,7 @@ const SuccessStories = () => {
                 </div>
                 <h2 className="text-3xl font-bold mb-6">Henry County Parks and Recreation: 2023 Georgia Park and Recreation of the Year</h2>
                 <blockquote className="text-lg mb-6 opacity-95 italic">
-                  "Beast Hack hitting stations have been a game-changer for our youth sports programs. The durability, portability, and space-saving design make them perfect for our facilities. We've seen remarkable improvement in our young athletes' fundamental skills since implementing these stations at Cochran Park."
+                  "Beast Hack hitting stations have been a game-changer for our youth sports programs. The durability, portability, and space-saving design make them perfect for our facilities. We've seen remarkable improvement in our young athletes' fundamental skills since implementing these hitting stations at Cochran Park."
                 </blockquote>
                 <div className="mb-6">
                   <p className="font-semibold">Bryan Dixon</p>
@@ -79,7 +79,7 @@ const SuccessStories = () => {
               <CardContent>
                 <p className="mb-4">Due to the overwhelming success and positive community response, Henry County expanded their Beast Hack implementation across multiple facilities.</p>
                 <ul className="space-y-2 text-sm">
-                  <li>• Added pickleball training stations</li>
+                  <li>• Added pickleball training hitting stations</li>
                   <li>• Expanded to additional park locations</li>
                   <li>• Increased youth program participation</li>
                   <li>• Enhanced program offerings</li>
@@ -92,7 +92,7 @@ const SuccessStories = () => {
                 <CardTitle className="text-xl">Award Recognition</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="mb-4">Under Bryan Dixon's leadership and with innovative facilities like Beast Hack stations, Henry County earned the prestigious 2023 Georgia Park and Recreation of the Year award.</p>
+                <p className="mb-4">Under Bryan Dixon's leadership and with innovative facilities like Beast Hack hitting stations, Henry County earned the prestigious 2023 Georgia Park and Recreation of the Year award.</p>
                 <ul className="space-y-2 text-sm">
                   <li>• State-level recognition</li>
                   <li>• Leadership in youth sports</li>
@@ -127,7 +127,7 @@ const SuccessStories = () => {
               </CardHeader>
               <CardContent>
                 <blockquote className="italic mb-4">
-                  "I've been coaching Little League for 15 years, and Beast Hack stations have revolutionized how I teach hitting fundamentals. The kids love the consistent practice, and I've seen a 40% improvement in batting averages across my team since we started using them."
+                  "I've been coaching Little League for 15 years, and Beast Hack hitting stations have revolutionized how I teach hitting fundamentals. The kids love the consistent practice, and I've seen a 40% improvement in batting averages across my team since we started using them."
                 </blockquote>
                 <div className="bg-muted rounded p-4">
                   <h4 className="font-semibold mb-2">Key Results:</h4>
@@ -167,7 +167,7 @@ const SuccessStories = () => {
               </CardHeader>
               <CardContent>
                 <blockquote className="italic mb-4">
-                  "We implemented Beast Hack stations for both our baseball and pickleball programs. The versatility has been incredible - we can run multiple training sessions simultaneously, and the space-saving design lets us maximize our limited facility space."
+                  "We implemented Beast Hack hitting stations for both our baseball and pickleball programs. The versatility has been incredible - we can run multiple training sessions simultaneously, and the space-saving design lets us maximize our limited facility space."
                 </blockquote>
                 <div className="bg-muted rounded p-4">
                   <h4 className="font-semibold mb-2">Facility Impact:</h4>
@@ -240,7 +240,7 @@ const SuccessStories = () => {
           <div className="bg-secondary/10 rounded-lg p-8">
             <h3 className="text-xl font-semibold mb-4">Learn More About Henry County's Award-Winning Programs:</h3>
             <p className="mb-6">
-              Henry County Parks and Recreation's innovative approach to youth sports development, including their use of Beast Hack training stations, 
+              Henry County Parks and Recreation's innovative approach to youth sports development, including their use of Beast Hack training hitting stations, 
               contributed to their recognition as the 2023 Georgia Park and Recreation of the Year. This award recognizes excellence in programming, 
               facilities, and community impact.
             </p>
@@ -262,12 +262,12 @@ const SuccessStories = () => {
           <h2 className="text-3xl font-bold mb-6">Join the Success Stories</h2>
           <p className="text-xl text-muted-foreground mb-8 max-w-3xl mx-auto">
             Whether you're a parent looking to give your child an edge, a coach seeking better training tools, 
-            or a park manager wanting to improve your facilities, Beast Hack stations can help you achieve the same success as Henry County and hundreds of other satisfied customers.
+            or a park manager wanting to improve your facilities, Beast Hack hitting stations can help you achieve the same success as Henry County and hundreds of other satisfied customers.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button variant="cta" size="lg" asChild>
               <a href="https://beasthack.com/shop" target="_blank" rel="noopener noreferrer">
-                Shop Beast Hack Stations
+                Shop Beast Hack Hitting Stations
               </a>
             </Button>
             <Button variant="outline" size="lg" asChild>

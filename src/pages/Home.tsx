@@ -23,7 +23,7 @@ const Home = () => {
                 Master the Fundamentals with Beast Hack—Give Your Kids a Chance!
               </p>
               <p className="text-lg mb-8 opacity-90 font-body">
-                Just like learning the ABCs is essential for reading, mastering sports fundamentals is critical for athletic success. Our portable, durable training stations help young athletes develop proper stance, swing mechanics, and footwork that will serve them for life.
+                Just like learning the ABCs is essential for reading, mastering sports fundamentals is critical for athletic success. Our portable, durable training hitting stations help young athletes develop proper stance, swing mechanics, and footwork that will serve them for life.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button
@@ -36,7 +36,7 @@ const Home = () => {
                     target="_blank" 
                     rel="noopener noreferrer"
                   >
-                    Shop Beast Hack Stations
+                    Shop Beast Hack Hitting Stations
                   </a>
                 </Button>
                 <Button 
@@ -70,7 +70,7 @@ const Home = () => {
               Just like the ABCs are to reading, mastering fundamentals—stance, swing mechanics, and footwork—is critical for young athletes in baseball, softball, and pickleball. Without a strong base, skills falter, and potential is lost. Parents, coaches, and park managers must prioritize these essentials to ensure kids thrive.
             </p>
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto mt-4 font-body">
-              Endorsed by Bryan Dixon, Deputy Administrator of Henry County Parks and Recreation, Beast Hack stations have transformed Cochran Park, contributing to their <strong>2023 Georgia Park and Recreation of the Year award</strong>. 
+              Endorsed by Bryan Dixon, Deputy Administrator of Henry County Parks and Recreation, Beast Hack hitting stations have transformed Cochran Park, contributing to their <strong>2023 Georgia Park and Recreation of the Year award</strong>. 
               <a 
                 href="https://www.henryherald.com/news/henry-county-parks-and-recreation-department-recognized-for-state-and-district-awards/article_2a39ffc2-8f05-11ee-bf94-17937b674357.html" 
                 target="_blank" 
@@ -114,7 +114,7 @@ const Home = () => {
                 </div>
                 <h3 className="text-xl font-impact font-semibold mb-3">Consistent Practice</h3>
                 <p className="text-muted-foreground">
-                  Repetition with Beast Hack stations builds confidence and competence, turning fundamental movements into natural reflexes.
+                  Repetition with Beast Hack hitting stations builds confidence and competence, turning fundamental movements into natural reflexes.
                 </p>
               </CardContent>
             </Card>
@@ -128,7 +128,7 @@ const Home = () => {
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-beast font-bold mb-4">Beast Hack in Action</h2>
             <p className="text-xl text-muted-foreground font-body">
-              See how Beast Hack stations transform fundamental training across multiple sports
+              See how Beast Hack hitting stations transform fundamental training across multiple sports
             </p>
           </div>
           
@@ -188,7 +188,7 @@ const Home = () => {
       <section className="py-16 bg-muted">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-beast font-bold mb-4">Why Choose Beast Hack Training Stations?</h2>
+            <h2 className="text-3xl md:text-4xl font-beast font-bold mb-4">Why Choose Beast Hack Training Hitting Stations?</h2>
             <p className="text-xl text-muted-foreground font-body">
               Portable, durable, and designed specifically for fundamental skill development
             </p>
@@ -242,7 +242,7 @@ const Home = () => {
       <section className="py-16 bg-muted">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-beast font-bold mb-4">Beast Hack Training Stations</h2>
+            <h2 className="text-3xl md:text-4xl font-beast font-bold mb-4">Beast Hack Training Hitting Stations</h2>
             <p className="text-xl text-muted-foreground font-body">
               Professional-grade training equipment designed for developing fundamental skills
             </p>
@@ -259,7 +259,7 @@ const Home = () => {
             <div>
               <h3 className="text-2xl font-impact font-semibold mb-4">Engineered for Excellence</h3>
               <p className="text-muted-foreground font-body mb-6">
-                Our training stations are meticulously designed to provide consistent, reliable practice sessions that build muscle memory and proper technique. Each station is portable, durable, and versatile enough for multiple sports.
+                Our training hitting stations are meticulously designed to provide consistent, reliable practice sessions that build muscle memory and proper technique. Each hitting station is portable, durable, and versatile enough for multiple sports.
               </p>
               <ul className="space-y-3 text-muted-foreground font-body">
                 <li className="flex items-center">
@@ -301,10 +301,10 @@ const Home = () => {
             <div className="md:order-1">
               <h3 className="text-2xl font-impact font-semibold mb-4">Proven Results</h3>
               <p className="text-muted-foreground font-body mb-6">
-                Trusted by Henry County Parks and Recreation and countless coaches nationwide, Beast Hack stations have proven their effectiveness in developing young athletes' fundamental skills across baseball, softball, and pickleball.
+                Trusted by Henry County Parks and Recreation and countless coaches nationwide, Beast Hack hitting stations have proven their effectiveness in developing young athletes' fundamental skills across baseball, softball, and pickleball.
               </p>
               <blockquote className="border-l-4 border-primary pl-4 italic text-muted-foreground font-body">
-                "Beast Hack stations have transformed our training programs. The kids love them, and we can see real improvement in their fundamental skills."
+                "Beast Hack hitting stations have transformed our training programs. The kids love them, and we can see real improvement in their fundamental skills."
                 <footer className="text-sm mt-2 font-medium">
                   — Bryan Dixon, Henry County Parks and Recreation
                 </footer>
@@ -321,7 +321,7 @@ const Home = () => {
             Give Your Young Athletes the Foundation They Need
           </h2>
           <p className="text-xl mb-8 max-w-3xl mx-auto opacity-95 font-body">
-            Don't let your kids miss out on proper fundamental training. Beast Hack stations provide the consistent, quality practice needed to build skills that last a lifetime. Join the parks, coaches, and parents who've seen the difference fundamentals make.
+            Don't let your kids miss out on proper fundamental training. Beast Hack hitting stations provide the consistent, quality practice needed to build skills that last a lifetime. Join the parks, coaches, and parents who've seen the difference fundamentals make.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button
@@ -334,7 +334,7 @@ const Home = () => {
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                Shop Beast Hack Stations
+                Shop Beast Hack Hitting Stations
               </a>
             </Button>
             <Button 
