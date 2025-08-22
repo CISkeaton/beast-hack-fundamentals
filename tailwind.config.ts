@@ -18,19 +18,24 @@ export default {
 			}
 		},
 		extend: {
+			fontFamily: {
+				'beast': ['Orbitron', 'sans-serif'], // Similar to Pirulen for headers
+				'impact': ['Kanit', 'sans-serif'],   // Similar to Futura Bold  
+				'body': ['Inter', 'sans-serif'],     // Similar to Myriad Pro
+			},
 			backgroundImage: {
 				'hero-gradient': 'var(--hero-gradient)',
 				'secondary-gradient': 'var(--secondary-gradient)',
-				'success-gradient': 'var(--success-gradient)',
+				'brand-gradient': 'var(--brand-gradient)',
 			},
 			boxShadow: {
-				'sport': 'var(--shadow-sport)',
-				'emphasis': 'var(--shadow-emphasis)',
+				'beast': 'var(--shadow-beast)',
+				'power': 'var(--shadow-power)',
 				'subtle': 'var(--shadow-subtle)',
 			},
 			transitionTimingFunction: {
 				'smooth': 'var(--transition-smooth)',
-				'bounce': 'var(--transition-bounce)',
+				'power': 'var(--transition-power)',
 			},
 			colors: {
 				border: 'hsl(var(--border))',
