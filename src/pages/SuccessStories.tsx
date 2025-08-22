@@ -1,6 +1,6 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import bryantTestimonial from "@/assets/bryan-dixon-testimonial.jpg";
+import bryantTestimonial from "@/assets/bryan-dixon.jpg";
 
 const SuccessStories = () => {
   return (
