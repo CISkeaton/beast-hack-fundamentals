@@ -301,7 +301,7 @@ const Home = () => {
             <div className="md:order-1">
               <h3 className="text-2xl font-impact font-semibold mb-4">Proven Results</h3>
               <p className="text-muted-foreground font-body mb-6">
-                Trusted by Henry County Parks and Recreation and countless coaches nationwide, Beast Hack hitting stations have proven their effectiveness in developing young athletes' fundamental skills across baseball, softball, and pickleball.
+                Trusted by 2023 Georgia Park & Rec of the year recipient Henry County Parks and Recreation and countless coaches nationwide, Beast Hack hitting stations have proven their effectiveness in developing young athletes' fundamental skills across baseball, softball, and pickleball.
               </p>
               <blockquote className="border-l-4 border-primary pl-4 italic text-muted-foreground font-body">
                 "Beast Hack hitting stations have transformed our training programs. The kids love them, and we can see real improvement in their fundamental skills."
